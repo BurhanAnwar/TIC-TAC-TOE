@@ -51,5 +51,6 @@ The game alternates between the player and the computer, displaying the board af
 2. Follow the prompts to enter your move (row and column numbers).
 3. The game will display the board after each move and announce the result when the game ends.
 
-![image](https://github.com/idrees200/TicTacToe/assets/113856749/201cd130-ed0b-494b-a61b-fae1a9ea86d7)
+![sss](https://github.com/BurhanAnwar/TIC-TAC-TOE/assets/113848585/96fe7dbb-084e-41f0-bb74-970588ff1559)
+
 
